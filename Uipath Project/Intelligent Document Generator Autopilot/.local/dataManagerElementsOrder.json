@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "jsonString&Sequence_5",
+        "joCurrentRow&Sequence_5",
+        "selectedFiles&Sequence_1",
+        "dataTable&Sequence_2",
+        "selectedFile&Sequence_2",
+        "JobData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inputLocation",
+        "inputSpeciality",
+        "ResultMessage"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

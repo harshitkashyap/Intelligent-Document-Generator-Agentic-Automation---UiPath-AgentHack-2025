@@ -1,0 +1,13 @@
+{
+  "assemblyStates": {
+    "Master_Document_Gene.zO99U2nEr1Q1lVYeE1JM1od1": {
+      "namespace": "UiPath.System.Activities.ViewModels.SWEntities.Master_Document_Generator_Input.Bundle",
+      "providerName": "CustomEntities",
+      "key": {
+        "name": "UiPath.System.Activities.ViewModels.SWEntities.Master_Document_Generator_Input",
+        "hash": "LTM3ODMyMTI3NA",
+        "assemblyName": "Master_Document_Gene.zO99U2nEr1Q1lVYeE1JM1od1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --headless --disable-gpu --print-to-pdf="{{{###PDF-PATH###}}}" "{{{###HTML-PATH###}}}"

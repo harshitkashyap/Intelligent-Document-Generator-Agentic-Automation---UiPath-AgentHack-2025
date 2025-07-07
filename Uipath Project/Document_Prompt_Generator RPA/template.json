@@ -1,0 +1,15 @@
+{
+  "header": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Generated HTML Template</title>\n    <style>\n        body {\n            font-family: 'Inter', sans-serif;\n            margin: 0;\n            padding: 20px;\n            background-color: #f4f7fa;\n            color: #333;\n        }\n        .canvas-container {\n            position: relative;\n            width: 100%;\n            height: auto; /* Adjust height dynamically or set a min-height */\n            min-height: 400px;\n            background-color: #fff;\n            border: 1px solid #e0e0e0;\n            border-radius: 8px;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n            overflow: hidden; /* Hide anything outside its bounds */\n        }\n    </style>\n</head>\n<body>\n    <div class=\"canvas-container\">\n",
+  "elements": [
+    {
+      "name": "essay",
+      "description": "Summary Of the news report",
+      "type": "p",
+      "content": "        <p style=\"position: absolute; left: 246px; top: 152px; padding: 8px; background-color: #ffffff; color: #333333; font-size: 16px; border: 1px solid #ddd; border-radius: 4px; display: flex; justify-content: flex-start; align-items: flex-start; flex-direction: row; width: auto; height: auto;\">{{##Value##}}</p>\n",
+      "value": "today news"
+    }
+  ],
+  "footer": "</div>\n</body>\n</html>",
+  "name": "news",
+  "description": "Summary Of the news report"
+} 

@@ -1,0 +1,55 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "textDocTemplate&Sequence_1",
+        "textData&Sequence_1",
+        "jsonDocTemplate&Sequence_1",
+        "jsonData&Sequence_1",
+        "stringHTML&Sequence_1",
+        "indexElements&Sequence_1",
+        "valueElement&Sequence_3",
+        "htmlElement&Sequence_3",
+        "valueElement&Sequence_4",
+        "htmlElement&Sequence_4",
+        "valueElement&Sequence_5",
+        "htmlElement&Sequence_5",
+        "valueElement&Sequence_7",
+        "htmlElement&Sequence_7",
+        "stringTableHTML&Sequence_7",
+        "stringRowContent&Sequence_7",
+        "valueElement&Sequence_6",
+        "htmlElement&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inputDocumentDataJSON",
+        "inputDocumentTemplateJSON",
+        "outputDocumentHTML"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "out&Sequence_2",
+        "template&Sequence_2",
+        "data&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "textStorage&Sequence_2",
+        "indexCurrentText&Sequence_2",
+        "attachmentList&Sequence_2",
+        "localFileList&Sequence_2",
+        "fineName&Sequence_4",
+        "fileExist&Sequence_4",
+        "fileResource&Sequence_4",
+        "commandText&Sequence_10",
+        "fileExistPDF&Sequence_10",
+        "fileResourcePDF&Sequence_10"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inputHTMLString",
+        "inputEmailAddress",
+        "inputEmailBody",
+        "inputTemplateName",
+        "inputEmailSubject"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strinfList&Sequence_1",
+        "file&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

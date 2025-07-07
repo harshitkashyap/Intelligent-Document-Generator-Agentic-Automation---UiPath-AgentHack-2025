@@ -1,0 +1,55 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GET.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "templateFiles&Sequence_2",
+        "fileContent&Sequence_2",
+        "nameStorageBucket&Sequence_2",
+        "indexFile&Sequence_2",
+        "jobjectAllDocTemplateJSON&Sequence_2",
+        "jobjectTemplateNameDescriptionList&Sequence_2",
+        "jsonFileContent&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "outAllDocTemplateJSON",
+        "outTemplateNameDescriptionList"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "outTemplateNameDescriptionList",
+        "outAllDocTemplateJSON",
+        "inRequestType"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CREATE.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "transactionItem&Sequence_2",
+        "tempFileName&Sequence_2",
+        "nameStorageBucket&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

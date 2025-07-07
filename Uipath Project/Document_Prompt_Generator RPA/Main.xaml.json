@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "inTemplateJSON",
+      "DisplayName": "inTemplateJSON",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Users\\Nidhi\\Documents\\UiPath\\Prompt_Generator\\Data\\Input\\Ayushman_Hospital.json",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "outDynamicUserPrompt",
+      "DisplayName": "outDynamicUserPrompt",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

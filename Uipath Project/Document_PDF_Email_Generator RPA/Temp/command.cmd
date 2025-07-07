@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --headless --disable-gpu --print-to-pdf="C:\Users\Nidhi\Documents\UiPath\Document_PDF_Email_Generator RPA\Temp\Medical Necessity Letter_06072025_203706072025031250.pdf" "C:\Users\Nidhi\Documents\UiPath\Document_PDF_Email_Generator RPA\Temp\Medical Necessity Letter_06072025_203706072025031250.html"

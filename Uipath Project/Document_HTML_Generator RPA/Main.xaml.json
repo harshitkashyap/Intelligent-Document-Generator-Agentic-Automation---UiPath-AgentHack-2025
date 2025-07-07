@@ -1,0 +1,45 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "inputDocumentDataJSON",
+      "DisplayName": "inputDocumentDataJSON",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "{\n  'Title': 'Invoice',\n  'Date': '2017-01-25',\n  'My_img': 'NA',\n  'Issued_By': 'CARD_INTERMEDIATE_CARE',\n  'Issued_For': 'Patient/example',\n  'Department': 'NA',\n  'Total_Net': [\n    {\n      'Total_Net': 'TotalNet',\n      'Net_Price': '40 EUR'\n    },\n{\n      'Total_Net': 'TotalNet',\n      'Net_Price': '40 EUR'\n    },\n{\n      'Total_Net': 'TotalNet',\n      'Net_Price': '40 EUR'\n    }\n  ],\n  'Total_Gross': [\n    {\n      'Total_Gross': 'TotalGross',\n      'Gross_Price': '48 EUR'\n    }\n  ]\n}",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "inputDocumentTemplateJSON",
+      "DisplayName": "inputDocumentTemplateJSON",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "D:\\Hospital Invoice\\Hospital Invoice Template.json",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "outputDocumentHTML",
+      "DisplayName": "outputDocumentHTML",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
