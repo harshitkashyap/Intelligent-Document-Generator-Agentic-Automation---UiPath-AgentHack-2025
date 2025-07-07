@@ -23,8 +23,8 @@ const PORT = process.env.PORT || 8080;
 
 
 const YOUR_TENANT_NAME = "agenthack_d4f5e52c/DefaultTenant";              // e.g., 'DefaultTenant'
-const YOUR_CLIENT_ID = "3766c912-8da6-4ce5-93e5-cbca69d972a4";             // From External Application setup
-const YOUR_CLIENT_SECRET = "LJaa~ftYe$^Z93Vi";         // From External Application setup (copy immediately!)
+const YOUR_CLIENT_ID = "<<REPLACE WITH YOUR KEY>>";             // From External Application setup
+const YOUR_CLIENT_SECRET = "<<REPLACE WITH YOUR SECRET>>";         // From External Application setup (copy immediately!)
 const YOUR_FOLDER_ID = "2193861";             // The numerical ID of your Orchestrator folder (e.g., 12345)
 const YOUR_QUEUE_NAME = "Document Template Queue"; // The name of the queue in Orchestrator
 const IDENTITY_SERVER_URL = `https://staging.uipath.com/identity_/connect/token`;
